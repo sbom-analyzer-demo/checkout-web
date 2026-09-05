@@ -1,0 +1,10 @@
+{
+  "name": "checkout-web",
+  "version": "1.0.0",
+  "description": "Customer-facing checkout and cart experience",
+  "private": true,
+  "dependencies": {
+    "json5": "2.2.0",
+    "lodash": "4.17.19"
+  }
+}
